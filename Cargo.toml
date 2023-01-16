@@ -1,0 +1,13 @@
+[package]
+name = "servlet"
+version = "0.0.0"
+description = "This library aids in server side content rendering."
+readme = "README.md"
+repository = "https://github.com/nikdeapen/servlet"
+homepage = "https://github.com/nikdeapen/servlet"
+authors = ["Nik Deapen <nik@deapen.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+
